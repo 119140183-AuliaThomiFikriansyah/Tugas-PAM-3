@@ -1,1 +1,1 @@
-# Tugas-PAM-3
+jalankan command "npm install" Terlebih dahulu ketika ingin menjalankan program
